@@ -1,7 +1,7 @@
 # Image-Resizer
 A simple web-based image resizer tool that allows users to easily upload an image, adjust its dimensions (with an option to lock the aspect ratio), and download a resized version. Additionally, the tool provides an option to reduce the image quality when downloading.
 
-Features
+# Features
 Image Upload: Click the upload box or browse to select an image.
 
 Dynamic Dimension Adjustment: Automatically fills in the image’s original width and height upon upload.
@@ -12,15 +12,15 @@ Quality Reduction Option: Optionally reduce the quality of the image during the 
 
 Instant Download: Resized image is instantly available for download.
 
-Demo
+# Demo
 
-Note: Replace the image path with your own screenshot if needed.
 
-Getting Started
+
+# Getting Started
 Prerequisites
 To run the project, simply have a modern web browser installed. No additional installation or server setup is required.
 
-Installation
+#Installation
 Clone the repository:
 
 bash
@@ -32,7 +32,7 @@ Open the project:
 
 Open index.html in your preferred web browser.
 
-Project Structure
+# Project Structure
 graphql
 Copy
 Edit
@@ -41,7 +41,8 @@ image-resizer/
 ├── style.css        # CSS file for styling the app.
 ├── script.js        # JavaScript file containing the functionality to handle image resizing and download.
 └── resources/       # Folder containing images and other assets.
-How It Works
+
+# How It Works
 Upload an Image:
 Click on the upload box to select an image file. The image preview will appear once uploaded.
 
@@ -59,8 +60,8 @@ CSS: Modify style.css to change the look and feel of the application.
 
 JavaScript: Enhance functionality or add more features by editing script.js.
 
-Contributing
+# Contributing
 Contributions are welcome! If you have suggestions or improvements, please feel free to create an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License.
