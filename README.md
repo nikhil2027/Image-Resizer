@@ -20,27 +20,21 @@ Instant Download: Resized image is instantly available for download.
 Prerequisites
 To run the project, simply have a modern web browser installed. No additional installation or server setup is required.
 
-#Installation
+Installation
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/image-resizer.git
+Copy git clone https://github.com/your-username/image-resizer.git
 cd image-resizer
 Open the project:
-
 Open index.html in your preferred web browser.
 
 # Project Structure
-graphql
-Copy
-Edit
+
 image-resizer/
-├── index.html       # Main HTML file that structures the app layout.
-├── style.css        # CSS file for styling the app.
-├── script.js        # JavaScript file containing the functionality to handle image resizing and download.
-└── resources/       # Folder containing images and other assets.
+├── index.html       
+├── style.css        
+├── script.js        
+└── resources/      
 
 # How It Works
 Upload an Image:
