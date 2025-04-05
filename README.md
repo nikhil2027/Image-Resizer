@@ -14,6 +14,7 @@ Instant Download: Resized image is instantly available for download.
 
 # Demo
 
+![Screenshot 2025-04-06 004056](https://github.com/user-attachments/assets/310024c3-fcce-4f2a-a249-b2e9517d83b0)
 
 
 # Getting Started
@@ -31,6 +32,7 @@ Open index.html in your preferred web browser.
 # Project Structure
 
 image-resizer/
+
 ├── index.html       
 ├── style.css        
 ├── script.js        
