@@ -1,6 +1,10 @@
 # Image-Resizer
 A simple web-based image resizer tool that allows users to easily upload an image, adjust its dimensions (with an option to lock the aspect ratio), and download a resized version. Additionally, the tool provides an option to reduce the image quality when downloading.
 
+# Link
+You can use the project by clicking on below link:-
+https://picsizer.netlify.app/
+
 # Features
 Image Upload: Click the upload box or browse to select an image.
 
